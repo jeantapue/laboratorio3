@@ -14,11 +14,11 @@ body{
 }   
 
 .container {
-    border: solid 1px rgba(3, 1, 1, 0.089);
+    border: solid 1px rgba(77, 11, 184, 0.089);
 }
 
 table {
-    color: #835004;
+    color: #000c01;
     font-size: 14px;
     table-layout: fixed;
     border-collapse: collapse;  
